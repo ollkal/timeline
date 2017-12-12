@@ -8,27 +8,54 @@ const TimelineApi = {
   items: [
     {
       id: 1,
-      title: 'Title of section 1',
+      title: 'Alphadev grundades',
       decsription: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.',
-      datetime: '14 Jan 2017',
+      datetime: '10 Jan 2015',
       iconUrl: pictureIcon,
       iconClassName: 'picture',
       iconAlt: 'Picture'
     },
     {
       id: 2,
-      title: 'Title of section 2',
+      title: 'Första vinterkonferensen',
       decsription: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.',
-      datetime: '14 Jan 2017',
+      datetime: '14 Feb 2015',
       iconUrl: movieIcon,
       iconClassName: 'movie',
       iconAlt: 'Movie'
     },
     {
       id: 3,
-      title: 'Title of section 3',
+      title: 'React kompetenslunch',
       decsription: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.',
-      datetime: '14 Jan 2017',
+      datetime: '14 Mar 2015',
+      iconUrl: locationIcon,
+      iconClassName: 'location',
+      iconAlt: 'Location'
+    },
+    {
+      id: 4,
+      title: 'Nytt kontor på Vasagatan',
+      decsription: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.',
+      datetime: '14 Dec 2015',
+      iconUrl: locationIcon,
+      iconClassName: 'location',
+      iconAlt: 'Location'
+    },
+    {
+      id: 5,
+      title: 'Spelsektionen drar igång',
+      decsription: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.',
+      datetime: '18 Jan 2016',
+      iconUrl: locationIcon,
+      iconClassName: 'location',
+      iconAlt: 'Location'
+    },
+    {
+      id: 6,
+      title: 'Gokart mästerskap',
+      decsription: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.',
+      datetime: '20 Maj 2017',
       iconUrl: locationIcon,
       iconClassName: 'location',
       iconAlt: 'Location'
