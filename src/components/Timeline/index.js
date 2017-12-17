@@ -47,18 +47,18 @@ const TimelineApi = {
       title: 'Spelsektionen drar igång',
       decsription: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.',
       datetime: '18 Jan 2016',
-      iconUrl: locationIcon,
-      iconClassName: 'location',
-      iconAlt: 'Location'
+      iconUrl: pictureIcon,
+      iconClassName: 'picture',
+      iconAlt: 'Picture'
     },
     {
       id: 6,
       title: 'Gokart mästerskap',
       decsription: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.',
       datetime: '20 Maj 2017',
-      iconUrl: locationIcon,
-      iconClassName: 'location',
-      iconAlt: 'Location'
+      iconUrl: pictureIcon,
+      iconClassName: 'picture',
+      iconAlt: 'Picture'
     }
   ],
   all: function () { return this.items }
